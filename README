@@ -1,0 +1,13 @@
+                     Yapılacaklar Listesi (ToDo List)
+1-Firebase Google hesabı yolu ile alınarak proje oluşturulur.
+2-Projenin database ve auth kimliği alınır.
+3-Blynk uygulaması telefona indirilir.
+4-Blynk uygulaması ile proje oluşturulur.Maile gönderilen Blynk auth şifresi kaydedilir.
+5.Şekildeki devre kurulur.
+6-Arduino uygulamasına ilgili kütüphaneler kurulur.
+a_Blynk
+b_DHT sensor library for espx
+c_Firebase ESP8266 Client
+7-Firebase ,blynk , wifi bilgileri ino dosyasına yazılır.
+7-Oluşturduğum Arduino  .ino dosyası nodemcu 12E kartına (gerekli ayarlar yapılarak) yüklenir.
+8-Blynk uygulamasından ve firebase veri tabanından nem ve sıcaklık değişimi gözlenir.
